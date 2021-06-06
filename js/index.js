@@ -6,7 +6,6 @@
 //如何解决？除非把蜡烛不用CSS动画，和SVG合并，但现在根本没那个技术
 //或者SVG用百分比确定top？或者蜡烛用em确定top？
 //获取windows的高度来确定蜡烛的高度
-
 //初始化fullpage
 $(document).ready(function() {
 	var NavigatorName = navigator.userAgent.toLowerCase();
